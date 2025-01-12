@@ -2,11 +2,11 @@
 
 _________
 
-This is just a basic Internal Cheat for **Idle Slayer**, nothing much but still work pretty good!
+| This is just a basic Internal Cheat for **Idle Slayer**, nothing much but still work pretty good!
 
 ## How to Launch:
 
-//THOSE STEPS ARE FOR **PROCESS HACKER** IF U USE A DIFFERENT INJECTOR THOSE STEPS CAN BE DIFFERENT!\\
+| THOSE STEPS ARE FOR **PROCESS HACKER** IF U USE A DIFFERENT INJECTOR THOSE STEPS CAN BE DIFFERENT!
 
 	Install A Injector (Some Options Down!)
 	Open Idle Slayer
@@ -29,7 +29,7 @@ This is just a basic Internal Cheat for **Idle Slayer**, nothing much but still 
 
 ## IMPORTANT!
 
-You may experience some crash when using this cheat from:
+| You may experience some crash when using this cheat from:
 
 -Giving Your Self Too Much Coins!
 -Launching the scrip a second time after **self destruction** (ONLY HAPPENS WHEN U LAUNCH THE CHEAT A SECOND TIME **IN THE SAME GAME**! NOT IF U **CLOSE AND REOPEN THE GAME**!)
