@@ -32,6 +32,6 @@ _________
 | You may experience some crash when using this cheat from:
 
 	-Giving Your Self Too Much Coins!
-	-Launching the scrip a second time after **self destruction** (ONLY HAPPENS WHEN U LAUNCH THE CHEAT A SECOND TIME **IN THE SAME GAME**! NOT IF U **CLOSE AND REOPEN THE GAME**!)
+	-Launching the scrip a second time after self destruction (ONLY HAPPENS WHEN U LAUNCH THE CHEAT A SECOND TIME IN THE SAME GAME! NOT IF U CLOSE AND REOPEN THE GAME!)
 
 **//That's All for this cheat!\\**
