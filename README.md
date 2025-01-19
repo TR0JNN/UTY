@@ -2,7 +2,7 @@
 
 _________
 
-| This is just an Internal Cheat for **Idle Slayer**, nothing much but still work pretty good!
+| This is an Internal Cheat for **Idle Slayer**, nothing much but still work pretty good!
 
 ## How to Launch:
 
